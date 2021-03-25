@@ -1,0 +1,15 @@
+tox
+coverage
+nose
+asynctest
+semantic_version
+avakas
+requests-mock
+aioresponses
+mock
+parameterized
+black
+bandit
+flake8
+mypy
+pip-tools
